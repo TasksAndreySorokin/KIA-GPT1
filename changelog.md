@@ -1,8 +1,8 @@
-# release_v1 11.12.2023
+# release_v1 11.10.2023
 >  Собрана новая версия Базы знаний
 >> [Смешанные диалоги](https://github.com/TasksAndreySorokin/KIA-GPT1/issues/49)
 
-# release_v1 11.12.2023
+# release_v1 11.10.2023
 >  Собрана новая версия Базы знаний
 >> [Смешанные диалоги](https://github.com/TasksAndreySorokin/KIA-GPT1/issues/49)
 >
